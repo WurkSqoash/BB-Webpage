@@ -10,4 +10,4 @@
 
 ### CSS
 
-## Webalp készítéséhez használt programmok/ezközök
+## Weblap készítéséhez használt programmok/ezközök
