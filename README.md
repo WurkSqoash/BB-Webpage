@@ -13,5 +13,5 @@
 ## Weblap készítéséhez használt programmok/ezközök
 
 ### Visual Studio Code
-    ![Code Logó](assets/images/github/code.png)
-    Letöltés: https://code.visualstudio.com/ 
+![Code Logó](assets/images/github/code.png)
+Letöltés: https://code.visualstudio.com/ 
