@@ -14,4 +14,3 @@
 
 ### Visual Studio Code
 ![Code Logó](assets/images/github/code.png)
-Letöltés: https://code.visualstudio.com/ 
