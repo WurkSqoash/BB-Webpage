@@ -13,4 +13,4 @@
 ## Weblap készítéséhez használt programmok/ezközök
 
 ### Visual Studio Code
-![Code Logó](assets/images/github/code.png)
+![Code Logó](assets/images/github/code.png) [https://code.visualstudio.com/]
