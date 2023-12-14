@@ -13,5 +13,5 @@
 ## Weblap készítéséhez használt programmok/ezközök
 
 ### Visual Studio Code
-    ![Code Logó](assets/images/github/code.png)
+    ![Code Logó](https://github.com/WurkSqoash/BB-Weblap/blob/dev/assets/images/github/code.png?raw=true)https://github.com/WurkSqoash/BB-Weblap/blob/dev/assets/images/github/code.png?raw=true)
     Letöltés: https://code.visualstudio.com/ 
