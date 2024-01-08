@@ -1,0 +1,13 @@
+#justified-text {
+    text-align: justify;
+}
+
+#centered-text {
+    text-align: center;
+}
+
+body {
+  background-image: url('../images/bg-about-us.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
