@@ -6,6 +6,11 @@
     text-align: center;
 }
 
+#centered-justifed-text {
+  text-align: center;
+  text-align-last: justify;
+}
+
 body {
   background-image: url('../images/bg-about-us.png');
   background-repeat: no-repeat;
