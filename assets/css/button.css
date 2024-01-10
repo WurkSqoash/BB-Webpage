@@ -59,12 +59,12 @@
     --bs-btn-bg: var(--bd-violet-bg);
     --bs-btn-border-color: var(--bd-violet-bg);
     --bs-btn-hover-color: var(--bs-white);
-    --bs-btn-hover-bg: #00aeff;
-    --bs-btn-hover-border-color: #00aeff;
+    --bs-btn-hover-bg: #0d6efd;
+    --bs-btn-hover-border-color: #0d6efd;
     --bs-btn-focus-shadow-rgb: var(--bd-violet-rgb);
     --bs-btn-active-color: var(--bs-btn-hover-color);
-    --bs-btn-active-bg: #00aeff;
-    --bs-btn-active-border-color: #00aeff;
+    --bs-btn-active-bg: #0d6efd;
+    --bs-btn-active-border-color: #0d6efd;
   }
 
   .bd-mode-toggle {
