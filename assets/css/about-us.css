@@ -1,0 +1,18 @@
+#justified-text {
+    text-align: justify;
+}
+
+#centered-text {
+    text-align: center;
+}
+
+#centered-justifed-text {
+  text-align: center;
+  text-align-last: justify;
+}
+
+body {
+  background-image: url('../images/aboutBG.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
