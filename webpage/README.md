@@ -7,6 +7,9 @@
 
 ## Neumann Projekt
 **Neumann János 120 évfordulójára készült plakát**
+``Fun Fact: A Byte Busters legelső projekte``
+
+![Neumman Projekt Menedzsment Ábra](docs/images/neumann-management.png)
 
 
 ### Image 1: Beautiful Landscape
