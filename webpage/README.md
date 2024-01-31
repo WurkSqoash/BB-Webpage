@@ -1,11 +1,13 @@
 # Byte Busters Github Repository
 
-## Weblap: 
-A hitavalos Byte Busters Weblap 
-### A weblaphoz használt Programok
-- JavaScript: Sed dictum justo non elit aliquam, et feugiat urna cursus.
+## Az adattár tratalma
+   - Neumann Projekt
+   - Weblap
+   - *Jövő beli projektek*
 
-## Section 3: Images
+## Neumann Projekt
+**Neumann János 120 évfordulójára készült plakát**
+
 
 ### Image 1: Beautiful Landscape
 
