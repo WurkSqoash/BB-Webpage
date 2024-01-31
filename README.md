@@ -7,7 +7,6 @@
 
 ## Neumann Projekt
 **Neumann János 120 évfordulójára készült plakát**
-``\nFun Fact: A Byte Busters legelső projekte``
 
 ### A projekt Elkészítésehez használt program(ok)
    - <a href='https://getpaint.net/'>Paint.net</a>
