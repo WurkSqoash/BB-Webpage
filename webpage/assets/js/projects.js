@@ -10,8 +10,8 @@ document.getElementById('inputField').addEventListener('input', checkInput);
 function checkInput() {
     var inputField = document.getElementById('inputField').value.toLowerCase();
     var validCodes = {
-        '0001': '../assets/pdf/0001.pdf',
-        '0002': '../assets/pdf/0001.pdf'
+        '0001': '../assets/pdf/neumann-120.pdf',
+        '0002': '../assets/pdf/template.pdf'
     };
 
     if (Object.keys(validCodes).includes(inputField)) {
