@@ -1,0 +1,30 @@
+Címoldal
+
+    Miért a GitHub?
+    [Projektenetek neve] – Az együttműködés alapja
+
+1. dia: Mi az a GitHub?
+
+    Verziókontroll, egyszerűen: Mit jelent a verziókontroll? Miért fontos a szoftverfejlesztésben?
+    Közös munka, egyszerűen: Hogyan segíti a GitHub a csapatokat a hatékony együttműködésben?
+    GitHub = Git + GitHub.com: Rövid magyarázat a Git és a GitHub.com közötti különbségről.
+
+2. dia: Miért a GitHub-ot választottuk?
+
+    Ingyenes és nyílt: Miért fontos ez a [projektenetek] számára?
+    Erős közösség: Miért előnyös egy nagy és aktív közösség?
+    Integráció más eszközökkel: Milyen más eszközökkel integrálható a GitHub? (pl. CI/CD, projektszervezők)
+    Átláthatóság: Hogyan segíti a GitHub az átlátható munkamódot? (pull requestek, issue tracking)
+
+3. dia: Hogyan használjuk a GitHub-ot?
+
+    A mi munkafolyamatunk:
+        Branch-elés: Hogyan szervezzük a különböző funkciókat és fejlesztéseket?
+        Pull requestek: Hogyan történik a kód felülvizsgálata és összevonása?
+        Issue tracking: Hogyan követjük nyomon a feladatokat és a hibákat?
+    Fontos fogalmak: repository, branch, commit, pull request, merge – rövid magyarázat
+
+4. dia: Összegzés
+
+    Miért a legjobb választás? Az előző diák főbb pontjainak összefoglalása.
+    Következő lépések: A GitHub használatának további fejlesztési lehetőségei.
