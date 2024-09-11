@@ -20,7 +20,7 @@ Simply clone or download the repository and open the `index.html` file in your w
 ```bash
 git clone https://github.com/WurkSqoash/Byte-Busters.git
 cd Byte-Busters
-
+```
 
 ## HU
 **Byte-Busters** egy kétfős csapat által kifejlesztett, iskolai feladatok és projektek bemutatására szolgáló weboldal. A weboldal elsősorban HTML használatával készült, és közös munkánk bemutatására szolgál.
@@ -42,3 +42,4 @@ Egyszerűen klónozza vagy töltse le a repót, és nyissa meg az `index.html` f
 ```bash
 git clone https://github.com/WurkSqoash/Byte-Busters.git
 cd Byte-Busters
+```
