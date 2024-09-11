@@ -1,58 +1,22 @@
-# Byte Busters Github Repository
+# Byte-Busters
 
-## Az adattár tratalma
-   - Neumann Projekt
-   - Weblap
-   - *Jövő beli projektek*
+## EN
+**Byte-Busters** is a website designed to showcase school assignments and projects, developed by a team of two. The website is primarily built using HTML and serves as a platform to present our collective work.
 
-## Neumann Projekt
-**Neumann János 120 évfordulójára készült plakát**
+### Features
+- Displays school assignments and personal projects.
+- Simple and clean design for easy navigation.
+- Continuously updated with new projects.
 
-### A projekt Elkészítésehez használt program(ok)
-   - <a href='https://getpaint.net/'>Paint.net</a>
+### Team
+- We are a team of two students, collaborating to present our work and improve our web development skills.
 
-![Neumman Projekt Menedzsment Ábra](docs/images/neumann-management.png)
+### Structure
+The website is structured to categorize different assignments and projects, making it easy for both teachers and peers to view our work.
 
+### Usage
+Simply clone or download the repository and open the `index.html` file in your web browser.
 
-### Image 1: Beautiful Landscape
-
-![Beautiful Landscape](assets/images/placeholder.png)
-
-Caption: Enjoy the breathtaking view of nature.
-
-### Image 2: Coding in Progress
-
-![Coding](images/coding.jpg)
-
-Caption: A programmer immersed in coding.
-
-### Image 3: Team Collaboration
-
-![Team Collaboration](images/teamwork.jpg)
-
-Caption: Working together leads to success.
-
-## Section 4: Steps to Achieve a Goal
-
-1. **Define Your Goal:**
-   - Clearly articulate what you want to achieve.
-
-2. **Create a Plan:**
-   - Break down your goal into smaller, manageable tasks.
-
-3. **Take Action:**
-   - Start working on your plan.
-
-4. **Monitor Progress:**
-   - Regularly assess how far you've come.
-
-5. **Adjust as Needed:**
-   - Be flexible and adjust your plan if necessary.
-
-## Section 5: Conclusion
-
-In conclusion, a detailed list can help organize information effectively. Feel free to customize and add more sections as needed.
-
----
-
-**Note:** Make sure to replace the image file paths (`images/landscape.jpg`, `images/coding.jpg`, `images/teamwork.jpg`) with the actual paths to your image files. Ensure that the images are in the specified locations relative to your Markdown file.
+```bash
+git clone https://github.com/WurkSqoash/Byte-Busters.git
+cd Byte-Busters
